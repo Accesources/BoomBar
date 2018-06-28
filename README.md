@@ -1,7 +1,10 @@
 BoomBar
 ------------
 
+## About
 Stop carrying dozens of loyalty and reward cards around ! Get BoomBar 
+
+<img src="https://storecard.app/2.jpg" width="350">
 
 3 Easy Steps Scan , Save and Use with your iPhone, Apple Watch and iMessage. 
 
@@ -9,9 +12,11 @@ BoomBar is a forward thinking application aim to record barcodes or QR-Codes fro
 
 BoomBar with the user permission, can backup all the saved cards to user's personal iCloud Drive, which means BoomBar’s creators and a third party do not have access to any data uploaded by the users, which ensures users' information 100% private and secure. 
 
+<img src="https://storecard.app/4.jpg" width="350">
+
 With the release of Apple Watch and the spread of iPhone and iPod touch, who still wants to carry a heavy wallet everywhere? BoomBar adopts advanced technology and concept, provides a user-friendly interface, easy to learn and use. 
 
-FEATURES:
+## Features
 
 * No Ads 
 * Share your saved cards with family or friends via iMessage 
@@ -25,12 +30,14 @@ FEATURES:
 
 [![Download in App Store][3]][2]
 
-[2]: https://storecards.app
-[3]: https://storecards.app/app-store.pngg
+[2]: https://storecard.app
+[3]: https://storecard.app/app-store.pngg
 
 This GitHub page has been set up for you to report back to us about:
 
 * Feature requests
 * Bug reports
 
-Please bear in mind all reports are publicly viewable. If you have a question or comment you don't posted in public, please email support@storecards.app instead.
+Please bear in mind all reports are publicly viewable. If you have a question or comment you don't posted in public, please email support@storecard.app instead.
+
+* You can also get in touch via Twitter: [@storecardapp](https://twitter.com/storecardapp).
