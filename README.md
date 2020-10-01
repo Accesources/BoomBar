@@ -29,7 +29,7 @@ With the release of Apple Watch and the spread of iPhone and iPod touch, who sti
 [![Download in App Store][3]][2]
 
 [2]: https://storecard.app
-[3]: https://storecard.app/app-store.pngg
+[3]: https://storecard.app/app-store.png
 
 This GitHub page has been set up for you to report back to us about:
 
